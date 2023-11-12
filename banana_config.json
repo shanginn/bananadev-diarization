@@ -1,0 +1,18 @@
+{
+    "version": "1",
+    "inputs": [
+        {
+            "name": "file",
+            "description": "Base64 encoded file to diarize",
+            "type": "string",
+            "required": true
+        }
+    ],
+    "output": {
+        "output": {
+            "type": "array",
+            "source": "array",
+            "path": "output"
+        }
+    }
+}

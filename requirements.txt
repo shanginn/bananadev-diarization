@@ -1,0 +1,2 @@
+potassium>=0.4
+pyannote.audio>=3
